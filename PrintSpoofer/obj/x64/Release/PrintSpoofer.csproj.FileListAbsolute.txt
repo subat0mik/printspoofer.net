@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\PrintSpoofer\PrintSpoofer\bin\x64\Release\PrintSpoofer.exe.config
+C:\Users\offsec.CORP1.000\Desktop\PrintSpoofer\PrintSpoofer\bin\x64\Release\PrintSpoofer.exe
+C:\Users\offsec.CORP1.000\Desktop\PrintSpoofer\PrintSpoofer\bin\x64\Release\PrintSpoofer.pdb
+C:\Users\offsec.CORP1.000\Desktop\PrintSpoofer\PrintSpoofer\obj\x64\Release\PrintSpoofer.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\PrintSpoofer\PrintSpoofer\obj\x64\Release\PrintSpoofer.exe
+C:\Users\offsec.CORP1.000\Desktop\PrintSpoofer\PrintSpoofer\obj\x64\Release\PrintSpoofer.pdb
